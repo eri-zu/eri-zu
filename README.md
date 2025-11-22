@@ -1,4 +1,4 @@
-## Hi, I'm ERI👋
+## Hi👋
 
 <!--
 **eri-zu/eri-zu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
